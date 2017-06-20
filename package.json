@@ -1,6 +1,6 @@
 {
   "name": "svg-path-to-polygons",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Converts path commands for an SVG path to polygonal points.",
   "main": "svg-path-to-polygons.js",
   "directories": {
