@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/Phrogz/svg-path-to-polygons#readme",
   "dependencies": {
-    "point-at-length": "^1.0.2",
     "svg-path-parser": "^1.1.0"
   },
   "devDependencies": {
