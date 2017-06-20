@@ -42,6 +42,7 @@ The optional `decimals` option controls the precision of values produces for eac
 * Subsample linear sections if they are within the `tolerance`.
 * Support negative values for `decimals`.
 
+
 ## License, Contact, and Support
 
 Copyright 2017 Gavin Kistner (!@phrogz.net)
